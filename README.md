@@ -1,2 +1,2 @@
-# Inspire-Drone2
-https://tanne-sh.github.io/Inspire-Drone2/.
+ [Inspire-Drone](https://tanne-sh.github.io/Inspire-Drone/.)
+
